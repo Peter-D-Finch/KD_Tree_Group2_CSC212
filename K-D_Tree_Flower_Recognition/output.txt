@@ -1,0 +1,156 @@
+digraph G {
+	setosa9 -> setosa42, versicolor8
+	versicolor8 -> test, versicolor11
+	test[style=invis]
+	versicolor11 -> virginica7, versicolor44
+	setosa2 -> setosa9, setosa3
+	setosa14 -> testa, setosa23
+	testa[style=invis]
+	setosa23 -> testaa, setosa36
+	testaa[style=invis]
+	setosa3 -> setosa14, setosa4
+	setosa10 -> setosa13, setosa35
+	setosa35 -> testaaa, setosa38
+	testaaa[style=invis]
+	setosa4 -> setosa10, setosa5
+	setosa39 -> testaaaa, setosa43
+	testaaaa[style=invis]
+	setosa43 -> testaaaaa, setosa46
+	testaaaaa[style=invis]
+	setosa46 -> testaaaaaa, setosa48
+	testaaaaaa[style=invis]
+	setosa30 -> setosa39, setosa31
+	setosa7 -> setosa30, setosa12
+	setosa12 -> testaaaaaaa, setosa25
+	testaaaaaaa[style=invis]
+	setosa5 -> setosa7, setosa8
+	setosa26 -> setosa50, testaaaaaaaa
+	testaaaaaaaa[style=invis]
+	setosa8 -> setosa26, setosa27
+	setosa27 -> setosa41, setosa44
+	setosa1 -> setosa2, setosa6
+	setosa29 -> testaaaaaaaaa, setosa37
+	testaaaaaaaaa[style=invis]
+	setosa18 -> setosa29, testaaaaaaaaaa
+	testaaaaaaaaaa[style=invis]
+	setosa11 -> setosa18, setosa19
+	setosa28 -> setosa40, setosa47
+	setosa47 -> setosa49, testaaaaaaaaaaa
+	testaaaaaaaaaaa[style=invis]
+	setosa21 -> setosa28, testaaaaaaaaaaaa
+	testaaaaaaaaaaaa[style=invis]
+	setosa19 -> setosa21, setosa20
+	setosa20 -> testaaaaaaaaaaaaa, setosa22
+	testaaaaaaaaaaaaa[style=invis]
+	setosa24 -> setosa32, versicolor1
+	versicolor4 -> versicolor49, versicolor6
+	versicolor30 -> versicolor32, testaaaaaaaaaaaaaa
+	testaaaaaaaaaaaaaa[style=invis]
+	versicolor20 -> versicolor30, versicolor31
+	versicolor31 -> testaaaaaaaaaaaaaaa, versicolor33
+	testaaaaaaaaaaaaaaa[style=invis]
+	versicolor13 -> versicolor20, versicolor18
+	versicolor18 -> testaaaaaaaaaaaaaaaa, versicolor38
+	testaaaaaaaaaaaaaaaa[style=invis]
+	versicolor40 -> testaaaaaaaaaaaaaaaaa, versicolor41
+	testaaaaaaaaaaaaaaaaa[style=invis]
+	versicolor43 -> testaaaaaaaaaaaaaaaaaa, versicolor45
+	testaaaaaaaaaaaaaaaaaa[style=invis]
+	versicolor41 -> versicolor43, testaaaaaaaaaaaaaaaaaaa
+	testaaaaaaaaaaaaaaaaaaa[style=invis]
+	versicolor38 -> versicolor40, testaaaaaaaaaaaaaaaaaaaa
+	testaaaaaaaaaaaaaaaaaaaa[style=invis]
+	versicolor6 -> versicolor13, versicolor9
+	versicolor15 -> versicolor46, versicolor22
+	versicolor47 -> versicolor50, testaaaaaaaaaaaaaaaaaaaaa
+	testaaaaaaaaaaaaaaaaaaaaa[style=invis]
+	versicolor39 -> versicolor47, testaaaaaaaaaaaaaaaaaaaaaa
+	testaaaaaaaaaaaaaaaaaaaaaa[style=invis]
+	versicolor22 -> versicolor39, versicolor25
+	versicolor25 -> testaaaaaaaaaaaaaaaaaaaaaaa, versicolor48
+	testaaaaaaaaaaaaaaaaaaaaaaa[style=invis]
+	versicolor9 -> versicolor15, versicolor24
+	versicolor1 -> versicolor4, versicolor2
+	versicolor10 -> testaaaaaaaaaaaaaaaaaaaaaaaa, versicolor12
+	testaaaaaaaaaaaaaaaaaaaaaaaa[style=invis]
+	versicolor14 -> testaaaaaaaaaaaaaaaaaaaaaaaaa, versicolor42
+	testaaaaaaaaaaaaaaaaaaaaaaaaa[style=invis]
+	versicolor42 -> virginica35, testaaaaaaaaaaaaaaaaaaaaaaaaaa
+	testaaaaaaaaaaaaaaaaaaaaaaaaaa[style=invis]
+	versicolor12 -> versicolor14, versicolor17
+	versicolor17 -> versicolor35, versicolor19
+	versicolor19 -> testaaaaaaaaaaaaaaaaaaaaaaaaaaa, versicolor21
+	testaaaaaaaaaaaaaaaaaaaaaaaaaaa[style=invis]
+	versicolor21 -> versicolor29, versicolor23
+	versicolor23 -> testaaaaaaaaaaaaaaaaaaaaaaaaaaaa, versicolor34
+	testaaaaaaaaaaaaaaaaaaaaaaaaaaaa[style=invis]
+	virginica2 -> virginica14, virginica15
+	virginica15 -> virginica22, virginica43
+	virginica43 -> virginica50, testaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+	testaaaaaaaaaaaaaaaaaaaaaaaaaaaaa[style=invis]
+	versicolor34 -> virginica2, virginica4
+	virginica24 -> testaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa, virginica27
+	testaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa[style=invis]
+	virginica20 -> virginica24, virginica34
+	virginica34 -> testaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa, virginica47
+	testaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa[style=invis]
+	virginica4 -> virginica20, virginica28
+	virginica28 -> virginica39, testaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+	testaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa[style=invis]
+	versicolor7 -> versicolor10, versicolor36
+	versicolor36 -> testaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa, virginica1
+	testaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa[style=invis]
+	virginica37 -> virginica49, testaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+	testaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa[style=invis]
+	virginica1 -> virginica37, testaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+	testaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa[style=invis]
+	versicolor2 -> versicolor7, versicolor3
+	versicolor5 -> versicolor26, versicolor27
+	versicolor27 -> testaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa, versicolor28
+	testaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa[style=invis]
+	virginica12 -> testaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa, virginica29
+	testaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa[style=invis]
+	virginica29 -> testaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa, virginica33
+	testaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa[style=invis]
+	virginica5 -> virginica12, virginica17
+	virginica17 -> virginica48, testaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+	testaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa[style=invis]
+	versicolor28 -> virginica5, virginica3
+	virginica9 -> testaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa, virginica31
+	testaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa[style=invis]
+	virginica8 -> virginica9, virginica19
+	virginica19 -> virginica23, testaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+	testaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa[style=invis]
+	virginica3 -> virginica8, virginica6
+	virginica13 -> virginica30, virginica36
+	virginica36 -> virginica46, testaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+	testaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa[style=invis]
+	virginica6 -> virginica13, testaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+	testaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa[style=invis]
+	versicolor3 -> versicolor5, versicolor16
+	versicolor16 -> testaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa, versicolor37
+	testaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa[style=invis]
+	versicolor37 -> testaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa, virginica10
+	testaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa[style=invis]
+	virginica40 -> testaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa, virginica42
+	testaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa[style=invis]
+	virginica38 -> virginica40, virginica41
+	virginica11 -> virginica38, virginica16
+	virginica16 -> testaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa, virginica21
+	testaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa[style=invis]
+	virginica21 -> virginica25, virginica44
+	virginica44 -> virginica45, testaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+	testaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa[style=invis]
+	virginica10 -> virginica11, virginica26
+	setosa22 -> setosa24, setosa45
+	setosa45 -> testaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa, virginica18
+	testaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa[style=invis]
+	virginica18 -> virginica32, testaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+	testaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa[style=invis]
+	setosa6 -> setosa11, setosa15
+	setosa15 -> testaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa, setosa16
+	testaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa[style=invis]
+	setosa33 -> testaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa, setosa34
+	testaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa[style=invis]
+	setosa16 -> setosa33, setosa17
+}
