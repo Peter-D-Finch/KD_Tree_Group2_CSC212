@@ -1,0 +1,9 @@
+digraph G {
+	Alec1 -> Alec2, Alec3
+	Alec3 -> Peter3, Peter2
+	Luke1 -> Alec1, Luke2
+	Luke2 -> Ty3, Luke3
+	Luke3 -> Peter1, Ty1
+	Ty1 -> Ty2, test
+	test[style=invis]
+}
